@@ -1,0 +1,45 @@
+{
+  "navigation": {
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title1": "Ingeniería de Software y",
+    "titleHighlight": "DevOps",
+    "subtitle": "Especialista en automatización, infraestructura cloud y ciberseguridad para escalar tu negocio de forma segura.",
+    "cta": "Agendar Asesoría"
+  },
+  "home": {
+    "videoTitle": "Conoce Mi Trabajo",
+    "videoDesc": "Descubre cómo aplico las últimas tendencias en tecnología y marketing digital para escalar negocios reales.",
+    "footerTagline": "Impulsando el futuro digital."
+  },
+  "servicesSection": {
+    "title": "Mis Servicios",
+    "viewProjectsLabel": "Ver Proyectos de",
+    "items": [
+      {
+        "id": "devops",
+        "title": "DevOps & Cloud",
+        "description": "Arquitectura escalable, despliegues automatizados y orquestación de contenedores.",
+        "icon": "⚙️",
+        "technologies": ["AWS", "Docker", "Kubernetes", "CI/CD"]
+      },
+      {
+        "id": "cybersec",
+        "title": "Ciberseguridad",
+        "description": "Auditorías, monitorización y fortificación de infraestructuras IT.",
+        "icon": "🛡️",
+        "technologies": ["Wazuh", "Security Onion", "Pentesting"]
+      },
+      {
+        "id": "webdev",
+        "title": "Desarrollo Web Full-Stack",
+        "description": "Aplicaciones modernas, rápidas y conectadas a bases de datos robustas.",
+        "icon": "💻",
+        "technologies": ["Next.js", "TypeScript", "SQL Server", "MySQL"]
+      }
+    ]
+  }
+}

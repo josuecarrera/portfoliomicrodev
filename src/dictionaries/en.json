@@ -1,0 +1,45 @@
+{
+  "navigation": {
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title1": "Software Engineering &",
+    "titleHighlight": "DevOps",
+    "subtitle": "Specialist in automation, cloud infrastructure, and cybersecurity to scale your business securely.",
+    "cta": "Book a Consultation"
+  },
+  "home": {
+    "videoTitle": "See My Work",
+    "videoDesc": "Discover how I apply the latest trends in technology and digital marketing to scale real businesses.",
+    "footerTagline": "Empowering the digital future."
+  },
+  "servicesSection": {
+    "title": "My Services",
+    "viewProjectsLabel": "View Projects for",
+    "items": [
+      {
+        "id": "devops",
+        "title": "DevOps & Cloud",
+        "description": "Scalable architecture, automated deployments, and container orchestration.",
+        "icon": "⚙️",
+        "technologies": ["AWS", "Docker", "Kubernetes", "CI/CD"]
+      },
+      {
+        "id": "cybersec",
+        "title": "Cybersecurity",
+        "description": "Security audits, monitoring, and IT infrastructure hardening.",
+        "icon": "🛡️",
+        "technologies": ["Wazuh", "Security Onion", "Pentesting"]
+      },
+      {
+        "id": "webdev",
+        "title": "Full-Stack Web Dev",
+        "description": "Modern, high-performance applications connected to robust databases.",
+        "icon": "💻",
+        "technologies": ["Next.js", "TypeScript", "SQL Server", "MySQL"]
+      }
+    ]
+  }
+}
